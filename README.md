@@ -2,7 +2,7 @@
 # 🎮 IOTGamified 2.0 – Create Your Own Game Controller!
 Welcome to **IOTGamified 2.0**, hosted by the **IOTHINC club of VIT Vellore**! In this exciting two-day workshop, participants will learn how to create their own **game controllers** from scratch using **ESP modules** and a custom **Python script** to communicate via the **UDP protocol**. Get ready to dive into the world of IoT, microcontrollers, sensors, and networking, and build something fun and interactive! 🌟
 
-## 🗓 Event Flow
+<!-- ## 🗓 Event Flow
 
 ### **Day 1: Introduction to IoT and Setup** (11 AM to 7 PM)
 
@@ -36,7 +36,7 @@ Welcome to **IOTGamified 2.0**, hosted by the **IOTHINC club of VIT Vellore**! I
 🐍 *Python & UDP Communication* – Explanation of Python script for UDP communication – _Ebrahim_
 
 **5:00 PM - 6:00 PM**  
-🛠 **Buffer for Debugging & Q&A** – Final touches, troubleshooting, and debugging session.
+🛠 **Buffer for Debugging & Q&A** – Final touches, troubleshooting, and debugging session. -->
 
 ## 📚 Topics Covered
 - **Intro to IoT** – What is IoT? Key use cases and applications. 🌐
