@@ -1,5 +1,5 @@
 
-# 🎮 IOTGamified 2.0 – Create Your Own Game Controller! 🎮
+# 🎮 IOTGamified 2.0 – Create Your Own Game Controller!
 Welcome to **IOTGamified 2.0**, hosted by the **IOTHINC club of VIT Vellore**! In this exciting two-day workshop, participants will learn how to create their own **game controllers** from scratch using **ESP modules** and a custom **Python script** to communicate via the **UDP protocol**. Get ready to dive into the world of IoT, microcontrollers, sensors, and networking, and build something fun and interactive! 🌟
 
 ## 🗓 Event Flow
